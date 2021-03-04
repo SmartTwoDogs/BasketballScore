@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">篮球计分器</string>
+    <string name="textview1">A组</string>
+    <string name="textview2">B组</string>
+    <string name="undoButton">撤销</string>
+    <string name="resetButton">重置</string>
+</resources>

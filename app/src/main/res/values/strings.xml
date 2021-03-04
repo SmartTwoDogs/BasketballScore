@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BasketballScore</string>
+    <string name="textview1">TeamA</string>
+    <string name="textview2">TeamB</string>
+    <string name="scoreA" translatable="false">0</string>
+    <string name="scoreB" translatable="false">0</string>
+    <string name="buttonAScore1" translatable="false">+1</string>
+    <string name="buttonAScore2" translatable="false">+2</string>
+    <string name="buttonAScore3" translatable="false">+3</string>
+    <string name="buttonBScore1" translatable="false">+1</string>
+    <string name="buttonBScore2" translatable="false">+2</string>
+    <string name="buttonBScore3" translatable="false">+3</string>
+    <string name="undoButton">undo</string>
+    <string name="resetButton">reset</string>
+</resources>
